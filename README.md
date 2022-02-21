@@ -1,7 +1,7 @@
 # Ames, IA Real Estate Prices: Regression Model and Notebook
 
 The purpose of this project is to predict the price of housing in the city of Ames, IA using real estate feature
-data and different regression predictive models. 
+data and different regression models. The model with the lowest error score is selected for Real Estate value predictions.
 
 Features such as Lot Size, Number of Bedrooms and the Age of the House are examples of factors to help predict the 
 price of real estate in Ames, IA. Feature importance is also calculated and is used to determine the importance of each
@@ -9,6 +9,8 @@ Housing feature in the model's prediction.
 
 The models selected for this project are Decision Tree Regression, Random Forest Regression and XGBoost Regression.
 Each of these models come from the Sci-Kit Learn machine learning library.
+
+## RMSE
 
 Root Mean Squared Error (RMSE) is the method of evaluation that is used to determine error losses when a
 regression model is run. The error is the difference between the predicted
@@ -33,9 +35,6 @@ For this project, Root Mean Squared Log Error (RMSLE) will be used in place of R
 ## Feature Importance
 Feature Importance is a method of determining attributes/features that are of importance in predicting the Target Variable (Housing Price)
 in each Regression model. Top features for the XGBoost model are displayed in an interactive Plotly graph. 
-
-The model with the lowest RMSLE score is selected for Real Estate value predictions.
-
 
 ## Project Process
 
@@ -79,7 +78,7 @@ The following is a Table of Contents for how the project is broken down:
 
 - Compare predicted model values (RMSLE)
 
-- Select model
+- Select model with the lowest RMSLE score
 
 - Run GridSearchCV (CrossValidation) to select best parameters
   for use in final model
