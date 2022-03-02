@@ -91,11 +91,9 @@ This heatmap displays positive and negative correlations between features for Re
 # Results
 
 For this project the **XGBoost model had the lowest RMSLE score (~0.119)** and was selected as the best prediction model.
-This indicates that the model is 88% accurate in predicting actual RealEstate value prices.
 
 The final XGBoost model was improved by:
     - Adjusting model parameters
  
-# Recommendations
-    - This model couldb
+
     
