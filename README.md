@@ -46,7 +46,21 @@ Thus, a higher penalty is incurred when the **Predicted Value is less than the A
 <p style="text-align:center;">
     <img width="400" alt="AveragePriceofHomebyNeighborhood" src="https://github.com/patty-olanterns/RealEstateAmesIA/blob/main/AmesIA_AveragePriceofHomebyNeighborhood.png?raw=true">
     
+### AmesIA_RealEstate_YearBuilt_vs_SalePrice
 
+<p style="text-align:center;">
+    <img width="400" alt="AmesIA_RealEstate_YearBuilt_vs_SalePrice" src="https://github.com/patty-olanterns/RealEstateAmesIA/blob/main/AmesIA_RealEstate_YearBuilt_vs_SalePrice.png?raw=true">
+    
+### AmesIA_RealEstate_OveralQual_vs_SalePric
+
+<p style="text-align:center;">
+    <img width="400" alt="AmesIA_RealEstate_OveralQual_vs_SalePrice" src="https://github.com/patty-olanterns/RealEstateAmesIA/blob/main/AmesIA_RealEstate_OveralQual_vs_SalePrice.png?raw=true">
+    
+### RealEstate_OveralQual_vs_SalePrice
+
+<p style="text-align:center;">
+    <img width="400" alt="AmesIA_RealEstate_OveralQual_vs_SalePrice" src="https://github.com/patty-olanterns/RealEstateAmesIA/blob/main/AmesIA_RealEstate_OveralQual_vs_SalePrice.png?raw=true">
+    
 ### Real Estate Data - Correlation Heatmap
 
 <p style="text-align:center;">
@@ -55,7 +69,7 @@ Thus, a higher penalty is incurred when the **Predicted Value is less than the A
 ### Real Estate Data - Final Features - Correlation Heatmap
 
 <p style="text-align:center;">
-    <img width="400" alt="Ames, IA Real Estate Data - Correlation Heatmap" src="https://github.com/patty-olanterns/RealEstateAmesIA/blob/main/FinalFeature_vs_TargetCorrelationScore?raw=true">
+    <img width="400" alt="FinalFeature_vs_TargetCorrelationScore" src="https://github.com/patty-olanterns/RealEstateAmesIA/blob/main/FinalFeature_vs_TargetCorrelationScore?raw=true">
     
 
 # Results
