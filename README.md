@@ -71,7 +71,7 @@ This heatmap displays positive and negative correlations between features for Re
 <p style="text-align:center;">
     <img width="800" alt="Real Estate Data - Correlation Heatmap" src="https://github.com/patty-olanterns/RealEstateAmesIA/blob/main/AmesIA_RealEstateDataCorrelationHeatmap.png?raw=true">
     
-## Select all homes with TotalSF z-score value < 3
+### Select all homes with TotalSF z-score value < 3
    - In a statistical normal distribution, it is good practice to sample data
      with a statistical z-score less than 3. This means any data that within 3 standard deviations
      from the mean of the dataset. Thus, all outliers have a z-score greater than 3 and are dropped
