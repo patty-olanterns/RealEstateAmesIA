@@ -32,12 +32,10 @@ A key advantage of using the RMSLE is that it incurs a larger penalty for the un
 Thus, a higher penalty is incurred when the **Predicted Value is less than the Actual Value**. Conversley, less penalty is incurred when the predicted value is more than the actual value. This is useful for scenarios where overestimating a target is less important than underestimating a target![https://medium.com/analytics-vidhya/root-mean-square-log-error-rmse-vs-rmlse-935c6cc1802a]
 
 
-
-
 ## Data Analysis
 
-- The following is a quick visual breakdown of insights between RealEstatePrice (Target feature)
-  and all other features of RealEstate 
+- The following is a quick visual breakdown of insights between SalePrice (Target feature)
+  and all other features in the data set
 
 ### Display top 10 positively correlated features with target (SalePrice)
 
