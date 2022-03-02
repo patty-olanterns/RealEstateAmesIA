@@ -38,15 +38,29 @@ Thus, a higher penalty is incurred when the **Predicted Value is less than the A
 ### Display top 10 positively correlated features with target (SalePrice)
 
 <p style="text-align:center;">
-    <img width="200" alt="AveragePriceofHomebyNeighborhood" src="https://github.com/patty-olanterns/RealEstateAmesIA/blob/main/AmesIA_AveragePriceofHomebyNeighborhood.png?raw=true">
+    <img width="400" alt="Feature Variable vs. Target Variable (SalePrice) - Correlation Scor" src="https://github.com/patty-olanterns/RealEstateAmesIA/blob/main/Feature_vs_TargetCorrelationScore.png?raw=true">
 
 
+### Average Price of Home by Neighborhood
+
+<p style="text-align:center;">
+    <img width="400" alt="AveragePriceofHomebyNeighborhood" src="https://github.com/patty-olanterns/RealEstateAmesIA/blob/main/AmesIA_AveragePriceofHomebyNeighborhood.png?raw=true">
+    
+
+### Real Estate Data - Correlation Heatmap
+
+<p style="text-align:center;">
+    <img width="400" alt="Ames, IA Real Estate Data - Correlation Heatmap" src="https://github.com/patty-olanterns/RealEstateAmesIA/blob/main/AmesIA_RealEstateDataCorrelationHeatmap?raw=true">
+    
+### Real Estate Data - Final Features - Correlation Heatmap
+
+<p style="text-align:center;">
+    <img width="400" alt="Ames, IA Real Estate Data - Correlation Heatmap" src="https://github.com/patty-olanterns/RealEstateAmesIA/blob/main/FinalFeature_vs_TargetCorrelationScore?raw=true">
+    
 
 # Results
 
 For this project the **XGBoost model had the lowest RMSLE score (~0.119)** and was selected as the best prediction Model!
+This indicates that the model is 88% accurate in predicting actual RealEstate value prices.
 
-The XGBoost model was optimized by eliminimproved by adjusting the model parameters and determining which
-
-
-
+    
