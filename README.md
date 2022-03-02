@@ -38,8 +38,7 @@ Thus, a higher penalty is incurred when the **Predicted Value is less than the A
 ### Display top 10 positively correlated features with target (SalePrice)
 
 <p style="text-align:center;">
-    <img width="200" alt="Reverse cationic flotation of iron ore" src="https://github.com/patty-olanterns/RealEstateAmesIA/edit/main/blob/main/AmesIA_AveragePriceofHomebyNeighborhood?raw=true">
-
+    <img width="200" alt="AveragePriceofHomebyNeighborhood" src="https://github.com/patty-olanterns/RealEstateAmesIA/blob/main/AmesIA_AveragePriceofHomebyNeighborhood.png?raw=true">
 
 
 
