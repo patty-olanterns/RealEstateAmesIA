@@ -80,7 +80,7 @@ This heatmap displays positive and negative correlations between features for Re
     
     - The model with the lowest RMSLE score (XGBoost) is selected
     and final features are modified and selected for use building a 
-    final XGBoost Regression model 
+    final XGBoost Regression model. We ignore the SalePrice as it is the Target Feature
 
 <p style="text-align:center;">
     <img width="400" alt="Final Top 10 Correlated Features" src="https://github.com/patty-olanterns/RealEstateAmesIA/blob/main/FinalFeature_vs_TargetCorrelationScore.png?raw=true">
