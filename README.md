@@ -90,8 +90,8 @@ This heatmap displays positive and negative correlations between features for Re
 
 For this project the **XGBoost model had the lowest RMSLE score (~0.119)** and was selected as the best prediction model.
 
-The final XGBoost model was improved by:
-    - Adjusting model parameters
+The final XGBoost model was improved by adjusting model parameters
+to get the lowest RMSLE score.
  
 
     
