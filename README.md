@@ -15,7 +15,7 @@ Each of these models come from the Sci-Kit Learn machine learning library.
 regression model is run. The error is the difference between the predicted
 real estate prices with the true real estate prices in each model.
 
-A link to its entire definition is provided [here] (#https://en.wikipedia.org/wiki/Root-mean-square_deviation)
+A link to its entire definition is provided [here] (https://en.wikipedia.org/wiki/Root-mean-square_deviation)
 
 In the case of RMSE, the presence of outliers causes the error value to maginify to a very high value. 
 Thus, RMSE is sensitive to outliers. Additionaly, the RMSE value **increases in magnitude if the scale of error increases.**
