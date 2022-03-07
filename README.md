@@ -83,7 +83,7 @@ This heatmap displays positive and negative correlations between features for Re
     final XGBoost Regression model 
 
 <p style="text-align:center;">
-    <img width="800" alt="Final Top 10 Correlated Features" src="https://github.com/patty-olanterns/RealEstateAmesIA/blob/main/FinalFeature_vs_TargetCorrelationScore.png?raw=true">
+    <img width="400" alt="Final Top 10 Correlated Features" src="https://github.com/patty-olanterns/RealEstateAmesIA/blob/main/FinalFeature_vs_TargetCorrelationScore.png?raw=true">
     
 
 # Results
@@ -92,6 +92,3 @@ For this project the **XGBoost model had the lowest RMSLE score (~0.119)** and w
 
 The final XGBoost model was improved by adjusting model parameters
 to get the lowest RMSLE score.
- 
-
-    
